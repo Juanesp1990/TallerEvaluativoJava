@@ -1,0 +1,15 @@
+
+h	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÿ½‚ùÿÿÿÿ
+h	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½×–Éúÿÿÿÿ
+W
+java:S1126<"AReplace this if-then-else statement by a single return statement.(éº©í
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óâ·õ
+h	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÁýÚþÿÿÿÿ
+D
+java:S2140Z")Use "java.util.Random.nextInt()" instead.(æ±ƒùÿÿÿÿ
+c	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¤¾Õ
+h
+java:S1301E"KReplace this "switch" statement by "if" statements to increase readability.(„˜ÅÛ8­ÕÚÉÒ/
+~
+java:S1488\"cImmediately return this expression instead of assigning it to the temporary variable "dniCompleta".(Þ¡—­þÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬°Èúÿÿÿÿ

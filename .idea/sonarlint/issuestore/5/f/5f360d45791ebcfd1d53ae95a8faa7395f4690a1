@@ -1,0 +1,8 @@
+
+W
+java:S1126T"AReplace this if-then-else statement by a single return statement.(ñ¾›ì
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18ÂèÿÒ/
+}
+java:S1488^"`Immediately return this expression instead of assigning it to the temporary variable "comparar".(Á«ıâ8ÄèÿÒ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±‰¥—úÿÿÿÿ
